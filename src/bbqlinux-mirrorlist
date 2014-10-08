@@ -1,0 +1,5 @@
+##
+## BBQLinux repository mirrorlist
+##
+
+http://packages.bbqlinux.org/$repo/os/$arch
