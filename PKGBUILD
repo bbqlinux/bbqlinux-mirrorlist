@@ -2,7 +2,7 @@
 
 pkgname=bbqlinux-mirrorlist
 pkgver=20141008
-pkgrel=1
+pkgrel=2
 pkgdesc="BBQLinux mirrorlist for use by pacman"
 arch=('any')
 url="https://github.com/bbqlinux/bbqlinux-mirrorlist"

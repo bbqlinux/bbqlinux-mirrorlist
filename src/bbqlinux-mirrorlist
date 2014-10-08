@@ -2,4 +2,4 @@
 ## BBQLinux repository mirrorlist
 ##
 
-http://packages.bbqlinux.org/$repo/os/$arch
+Server = http://packages.bbqlinux.org/$repo/os/$arch
