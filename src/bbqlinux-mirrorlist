@@ -1,5 +1,10 @@
 ##
 ## BBQLinux repository mirrorlist
+## Generated on 2014-10-10
 ##
 
+## de
 Server = http://packages.bbqlinux.org/$repo/os/$arch
+
+## us
+Server = http://mirror.amagital.com/$repo/os/$arch
